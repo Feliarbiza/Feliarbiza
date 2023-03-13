@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, My name is Felipe Arbiza 👋
 
-<!--
-**Feliarbiza/Feliarbiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a future Full-Stack Developer in technologies like JavaScript thanks to Guillermo Rodas Bootcamp 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### At the moment I have a long way to go to be a developer but I know I'm going to make it
+
+I'm from **Uruguay**, but i liked live in **Norway**.
+
+**Technologies**
+
+ * Python
+ * JavaScript
+ * Terminal
+ * Markdown
+ * Git
+ * HTML
+ * CSS
+
+## Thanks for read this
